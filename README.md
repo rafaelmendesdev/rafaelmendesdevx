@@ -11,11 +11,9 @@
 
 - ⚡ Fun fact **Eu também sou fotógrafo e já chorei em casamentos que fotografei, em quase todos e não conhecia os casais.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dev-rafael-mendes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dev-rafael-mendes/" height="30" width="40" /></a>
-<a href="https://discord.gg/Rafa2#8130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rafa2#8130" height="30" width="40" /></a>
-</p>
+<h3 align="center">Connect with me</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/dev-rafael-mendes/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="https://www.linkedin.com/in/dev-rafael-mendes/" height="30" width="30" /></a>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
