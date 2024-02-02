@@ -1,9 +1,9 @@
 <h1 align="center">👋 Olá Pessoas!</h1>
-<h3 align="center">Atualmente estudo profundamente conceitos e técnicas para ser um desenvolvedor frontend.</h3>
+<h3 align="center">Atualmente estudo profundamente conceitos e técnicas para ser um engenheiro de software.</h3>
 
-- 🌱 O que eu estudo no momento **Typescritp, Angular, Bootstrap, Acessibilidade Web e Python**
+- 🌱 O que eu estudo no momento **Java, Javascript, Orcale, Infrastrura física de redes e suas arquiteturas e DevOps**
 
-- 💬 Me pergunte sobre **Javascript, HTML5, CSS3**
+- 💬 Me pergunte sobre **Java, Javascript, HTML5, CSS3**
 
 - 📫 Você pode me achar através do email **rafael.mendes.sa@outlook.com**
 
