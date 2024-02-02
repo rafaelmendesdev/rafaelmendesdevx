@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá Pessoas!</h1>
 <h3 align="center">Atualmente estudo profundamente conceitos e técnicas para ser um engenheiro de software.</h3>
 
-- 🌱 O que eu estudo no momento **Java, Javascript, Orcale, Infrastrura física de redes e suas arquiteturas e DevOps**
+- 🌱 O que eu estudo no momento **Java, Javascript, Orcale, Infrastrura física de redes suas arquiteturas e DevOps**
 
 - 💬 Me pergunte sobre **Java, Javascript, HTML5, CSS3**
 
