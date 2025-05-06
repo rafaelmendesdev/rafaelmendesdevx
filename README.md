@@ -1,15 +1,13 @@
 <h1 align="center">👋 Olá Pessoas!</h1>
 <h3 align="center">Atualmente estudo profundamente conceitos e técnicas para ser um engenheiro de software.</h3>
 
-- 🌱 O que eu estudo no momento **Angular e Javascript, Java, Python, Orcale, trilhas do Google Cloud**
+- 🌱 O que eu estudo no momento **Angular, VueJS Javascript, Java, Python, I.A e assuntos derivados a tecnologia.**
 
-- 💬 Me pergunte sobre **Angular(Typescript e Javascript), Java, Google Cloud**
+- 💬 Me pergunte principalmente sobre **JavaScript, Angular, VueJS, Java**
 
 - 📫 Você pode me achar através do email **rafael.mendes.sa@outlook.com**
 
 - 📄 Um resumo das minhas experiências estão no [https://www.linkedin.com/in/dev-rafael-mendes/](https://www.linkedin.com/in/dev-rafael-mendes/)
-
-- ⚡ Fun fact **Eu também sou fotógrafo e já chorei em casamentos que fotografei, em quase todos e não conhecia os casais.**
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -34,14 +32,3 @@
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelmendesdev&show_icons=true&locale=en&layout=compact" alt="rafaelmendesdev" />
 </p>
-<!----
-👋 Hi, I’m @RafaelMendesDev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-MendesRafaell/MendesRafaell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
