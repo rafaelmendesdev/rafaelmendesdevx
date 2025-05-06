@@ -1,9 +1,9 @@
 <h1 align="center">👋 Olá Pessoas!</h1>
 <h3 align="center">Atualmente estudo profundamente conceitos e técnicas para ser um engenheiro de software.</h3>
 
-- 🌱 O que eu estudo no momento **Angular, VueJS Javascript, Java, Python, I.A e assuntos derivados a tecnologia.**
+- 🌱 O que eu estudo no momento **Angular, VueJS, Javascript, Java, Python, I.A e assuntos derivados a tecnologia.**
 
-- 💬 Me pergunte principalmente sobre **JavaScript, Angular, VueJS, Java**
+- 💬 Me pergunte principalmente sobre **JavaScript, Angular, VueJS, Java.**
 
 - 📫 Você pode me achar através do email **rafael.mendes.sa@outlook.com**
 
